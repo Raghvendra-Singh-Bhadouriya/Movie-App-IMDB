@@ -1,0 +1,47 @@
+.top-movie{
+    margin-top: 5%;
+}
+
+.toptrending-text{
+    color:white;
+    font-size: 160%;
+    margin-left:5%;
+    font-style: normal;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.topmovie-main-container{
+    border:0px solid white;
+    margin-bottom: 5%;
+    margin-top:2%;
+}
+
+.topmovie-slider-container{
+    border:0px solid green;
+    width:95%;
+    margin:auto;
+   
+}
+
+.poster-container{
+    border:0px solid yellow;
+    width:96%;
+    margin:auto;
+}
+
+.top-img{
+    width:100%;
+}
+
+.top-img:hover{
+    transform: scale(1.2);
+    border-radius:50px;
+    box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgba(255, 255, 255, 0.12) 0px 4px 6px, rgba(255, 255, 255, 0.17) 0px 12px 13px, rgba(255, 255, 255, 0.09) 0px -3px 5px;
+}
+
+
+
+/*.poster-container > img {
+    width:100%;
+}*/
